@@ -1,0 +1,12 @@
+#camera,#output{
+    border: 2px solid black ;
+    width:350px;
+    height:300px;    
+    }
+    
+    body
+    {
+    color:red;
+    background: pink;
+    }
+    
